@@ -24,7 +24,7 @@ I'm **[`Simon`](https://www.youtube.com/@s1monC2)**, a hacker & Security Researc
 
 - **Name**: Simon
 - **From**: Colombia
-- **Bug Hunter** | **Penetration Tester** |
+- **Bug Hunter** | **Penetration Tester** 
 - I have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Pentesting**
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner — always exploring **everything**
