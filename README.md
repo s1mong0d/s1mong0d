@@ -92,7 +92,7 @@ I'm **[`Simon`](https://www.youtube.com/@s1monC2)**, a hacker & Security Researc
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1monC2&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/s1monC2/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=s1monC2p&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=s1monC2&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/s1monC2/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1monC2&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
