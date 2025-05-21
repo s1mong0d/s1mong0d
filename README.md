@@ -28,7 +28,6 @@ I'm **[`Simon`](https://www.youtube.com/@s1monC2)**, a hacker & Security Researc
 - I have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Pentesting**
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner — always exploring **everything**
-- Reach me out at **simonclarosx@proton.me**
 
 </details>
 <br>
